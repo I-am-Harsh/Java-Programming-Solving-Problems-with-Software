@@ -3,7 +3,7 @@
 Course Link: https://www.coursera.org/specializations/java-programming
 
 Solution to the Coursera course provided by Duke University
-There 4 Quiz in the Course as of the day of uploading these solutions.
+There are 4 Quiz in the Course as of the day of uploading these solutions.
 This repo deosnt contain codes but only solutions to the quiz problem.
 In case yoou want codes Please visit - 
 
